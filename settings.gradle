@@ -1,0 +1,1 @@
+include ':app', ':recorddemo', ':iflytekdemo', ':diygooglesearchdemo', 'pauserecord'

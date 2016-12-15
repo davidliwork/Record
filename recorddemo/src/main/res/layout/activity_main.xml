@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.recorddemo.MainActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name" />
+
+    <Button
+        android:id="@+id/startRecord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/startRecord" />
+
+    <Button
+        android:id="@+id/stopRecord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stopRecord" />
+
+    <Button
+        android:id="@+id/startPlay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/startPlay" />
+
+    <Button
+        android:id="@+id/stopPlay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stopPlay" />
+
+    <Button
+        android:id="@+id/transform"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/transform" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </ScrollView>
+</LinearLayout>

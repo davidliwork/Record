@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PauseRecord</string>
+    <string name="empty_content">没有文件</string>
+</resources>

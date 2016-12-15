@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecordDemo</string>
+    <string name="startRecord">开始录音</string>
+    <string name="stopRecord">结束录音</string>
+    <string name="startPlay">开始播放</string>
+    <string name="stopPlay">结束播放</string>
+    <string name="transform">音频转文字</string>
+</resources>

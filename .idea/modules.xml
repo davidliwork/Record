@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Record.iml" filepath="$PROJECT_DIR$/Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diygooglesearchdemo/diygooglesearchdemo.iml" filepath="$PROJECT_DIR$/diygooglesearchdemo/diygooglesearchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iflytekdemo/iflytekdemo.iml" filepath="$PROJECT_DIR$/iflytekdemo/iflytekdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pauserecord/pauserecord.iml" filepath="$PROJECT_DIR$/pauserecord/pauserecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recorddemo/recorddemo.iml" filepath="$PROJECT_DIR$/recorddemo/recorddemo.iml" />
+    </modules>
+  </component>
+</project>

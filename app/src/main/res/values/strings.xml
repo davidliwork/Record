@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="test_array">
+        <item>北京</item>
+        <item>广州</item>
+        <item>上海</item>
+        <item>深圳</item>
+        <item>杭州</item>
+        <item>成都</item>
+    </string-array>
+    <string name="ime_settings">Voice IME demo setting</string>
+    <string name="voice_ime_enabled">Click the mic to start Voice IME</string>
+    <string name="voice_ime_not_enabled">Voice IME not enabled</string>
+    <string name="voice_ime_not_installed">Voice IME not installed</string>
+    <string name="api_not_available">API not available</string>
+</resources>

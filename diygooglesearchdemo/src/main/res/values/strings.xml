@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DIYGoogleSearchDemo</string>
+    <string name="error">识别错误</string>
+    <string name="speech">开启语音</string>
+    <string name="recording">录音中</string>
+    <string name="analyzing">数据解析中</string>
+</resources>
